@@ -1,6 +1,6 @@
 {
   "name": "tutorial",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://ElioTrovato.github.io/ReactBidmax",
   "private": true,
   "dependencies": {
