@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          latest committt
+          latest committtmmmm
         </a>
       </header>
     </div>
